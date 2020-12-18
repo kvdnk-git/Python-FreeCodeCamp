@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
 """
+Learn Python Coding 2020
+
+https://kd-webdesign.ch
 Created on Fri Dec 18 01:29:07 2020
 
 @author: kimvd
 """
+
+# 
 
 # string concatentation
 # suppose we want to create a string that says "subscribe to ___ "
